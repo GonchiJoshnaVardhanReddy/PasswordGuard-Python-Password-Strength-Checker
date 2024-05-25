@@ -1,5 +1,3 @@
-Certainly! Here's a suitable name for your password strength checker program along with a basic README file:
-
 ### PasswordGuard: Python Password Strength Checker
 
 #### Description
