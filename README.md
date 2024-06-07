@@ -12,7 +12,7 @@ PasswordGuard is a Python program that evaluates the strength of passwords based
 #### Usage
 1. Clone this repository:
    ```
-   git clone https://github.com/GonchiJoshnaVardhanReddy/PasswordGuard.git
+   [git clone https://github.com/GonchiJoshnaVardhanReddy/PasswordGuard.git](https://github.com/GonchiJoshnaVardhanReddy/PasswordGuard-Python-Password-Strength-Checker.git)
    ```
 
 2. Run the program:
